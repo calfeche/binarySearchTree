@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AlfecheExer2/1.0.0": {
+        "runtime": {
+          "AlfecheExer2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlfecheExer2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
